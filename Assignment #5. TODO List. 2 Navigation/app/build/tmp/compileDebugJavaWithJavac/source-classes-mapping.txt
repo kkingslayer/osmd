@@ -1,0 +1,36 @@
+com/makeevrserg/todolist/BuildConfig.java
+ com.makeevrserg.todolist.BuildConfig
+com/makeevrserg/todolist/BR.java
+ com.makeevrserg.todolist.BR
+com/makeevrserg/todolist/DataBindingTriggerClass.java
+ com.makeevrserg.todolist.DataBindingTriggerClass
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/makeevrserg/todolist/item_detail_fragment/ItemDetailFragmentArgs.java
+ com.makeevrserg.todolist.item_detail_fragment.ItemDetailFragmentArgs
+ com.makeevrserg.todolist.item_detail_fragment.ItemDetailFragmentArgs$Builder
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/makeevrserg/todolist/databinding/AddItemFragmentBinding.java
+ com.makeevrserg.todolist.databinding.AddItemFragmentBinding
+com/makeevrserg/todolist/databinding/TodolistFragmentBinding.java
+ com.makeevrserg.todolist.databinding.TodolistFragmentBinding
+com/makeevrserg/todolist/databinding/TodoItemBindingImpl.java
+ com.makeevrserg.todolist.databinding.TodoItemBindingImpl
+com/makeevrserg/todolist/databinding/ActivityMainBinding.java
+ com.makeevrserg.todolist.databinding.ActivityMainBinding
+com/makeevrserg/todolist/todo_list/TodoListFragmentDirections.java
+ com.makeevrserg.todolist.todo_list.TodoListFragmentDirections
+ com.makeevrserg.todolist.todo_list.TodoListFragmentDirections$ActionTodolistFragmentToItemDetailFragment
+com/makeevrserg/todolist/databinding/TodoItemBinding.java
+ com.makeevrserg.todolist.databinding.TodoItemBinding
+com/makeevrserg/todolist/databinding/ItemDetailFragmentBinding.java
+ com.makeevrserg.todolist.databinding.ItemDetailFragmentBinding
+com/makeevrserg/todolist/DataBinderMapperImpl.java
+ com.makeevrserg.todolist.DataBinderMapperImpl
+ com.makeevrserg.todolist.DataBinderMapperImpl$InnerBrLookup
+ com.makeevrserg.todolist.DataBinderMapperImpl$InnerLayoutIdLookup
+com/makeevrserg/todolist/databinding/TodolistFragmentBindingImpl.java
+ com.makeevrserg.todolist.databinding.TodolistFragmentBindingImpl
